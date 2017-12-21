@@ -1,6 +1,6 @@
 # LaravelExample2
 
-##Installation
+## Installation
 
 Create and reconfigure .env file
 ```bash
