@@ -1,4 +1,4 @@
-# LaravelExample2
+# LaravelExample1
 
 ## Installation
 
